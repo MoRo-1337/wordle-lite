@@ -47,7 +47,7 @@ app.innerHTML = `
   <header class="site-header">
     <div class="header-inner">
       <a class="brand" href="#game" aria-label="Wordle">
-        <img class="brand-mark" src="/wordle-mark.svg" alt="" width="48" height="48" />
+        <img class="brand-mark" src="${import.meta.env.BASE_URL}wordle-mark.svg" alt="" width="48" height="48" />
         <span class="brand-copy">
           <strong>Wordle</strong>
           <span id="editionLabel"></span>
