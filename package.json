@@ -1,0 +1,19 @@
+{
+  "name": "wordle-bilingual",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "preview": "vite preview --host 0.0.0.0",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "lucide": "^0.468.0",
+    "pinyin-pro": "^3.28.2"
+  },
+  "devDependencies": {
+    "vite": "^7.0.0"
+  }
+}

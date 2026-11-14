@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-labelledby="title desc">
+  <title id="title">Wordle 标志</title>
+  <desc id="desc">四个错落的方块，分别写有英文字母和汉字。</desc>
+  <rect width="120" height="120" rx="18" fill="#161b19"/>
+  <rect x="13" y="13" width="42" height="42" rx="4" fill="#2f7d57"/>
+  <rect x="65" y="13" width="42" height="42" rx="4" fill="#dfaa32"/>
+  <rect x="13" y="65" width="42" height="42" rx="4" fill="#e8ede9"/>
+  <rect x="65" y="65" width="42" height="42" rx="4" fill="#d95e49"/>
+  <text x="34" y="43" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="800" fill="#fff">W</text>
+  <text x="86" y="43" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="800" fill="#161b19">O</text>
+  <text x="34" y="95" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="700" fill="#161b19">字</text>
+  <text x="86" y="95" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="700" fill="#fff">词</text>
+</svg>
